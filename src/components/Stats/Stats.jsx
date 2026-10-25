@@ -2,7 +2,9 @@ import React from 'react'
 
 const Stats = () => {
   return (
-    <div>Stats</div>
+    <div className='stats_container'>
+      Stats
+    </div>
   )
 }
 
